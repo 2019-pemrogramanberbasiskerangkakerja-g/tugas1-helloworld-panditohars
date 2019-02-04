@@ -1,0 +1,25 @@
+{
+  "name": "project-pbkk",
+  "version": "1.0.0",
+  "description": "tugas 1 membuat hello world",
+  "main": "tugashello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panditohars/tugaspbkk.git"
+  },
+  "keywords": [
+    "pbkk"
+  ],
+  "author": "pandito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panditohars/tugaspbkk/issues"
+  },
+  "homepage": "https://github.com/panditohars/tugaspbkk#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
